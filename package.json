@@ -1,0 +1,23 @@
+{
+  "name": "myapp",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "kwon",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "express-handlebars": "^3.0.0",
+    "jade": "^1.11.0",
+    "multer": "^1.2.0",
+    "nodemon": "^1.10.0",
+    "orientjs": "^2.2.2",
+    "oriento": "^1.2.0",
+    "pug": "^2.0.0-beta5"
+  },
+  "devDependencies": {},
+  "description": ""
+}
